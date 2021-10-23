@@ -1,0 +1,5 @@
+Cada arquivo contem seu gabarito.
+algumas alternativas do gabarito cliente 
+estão diferentes das contidas no gabarito
+do servidor, facilitando a comparação de
+ambos.
